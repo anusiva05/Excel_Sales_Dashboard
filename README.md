@@ -47,7 +47,7 @@ Conditional Formatting
 
 📷 Dashboard Preview
 
-<a href="Sales_Dashboard.png">View Dashboard</a> 
+![view Dashboard]("Sales_Dashboard.png"> 
 
 📌 How to Use
 

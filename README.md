@@ -6,7 +6,7 @@ This repository contains an interactive Excel dashboardThe dashboard provides in
 
 ## Dataset used
 
-<a href="https://github.com/anusiva05/Excel_Sales_Dashboard/blob/main/Anulya%20Superstores(mini%20project%20excel)(1).xlsx">Dataset</a>
+<a href="https://github.com/anusiva05/Excel_Sales_Dashboard/blob/main/Anulya%20Superstores(mini%20project%20excel)(1).xlsx">View Dataset</a>
 
 ## Dashboard Highlights
 ✔ Sales Analysis
@@ -47,7 +47,7 @@ Conditional Formatting
 
 📷 Dashboard Preview
 
-![view Dashboard]("Sales_Dashboard.png"> 
+![view Dashboard](Images/Sales_Dashboard.png> 
 
 📌 How to Use
 

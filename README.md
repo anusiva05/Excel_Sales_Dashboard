@@ -47,7 +47,7 @@ Conditional Formatting
 
 📷 Dashboard Preview
 
-<a href="C:\Users\dell_\OneDrive\Pictures\Screenshots\Screenshot 2025-11-23 123953.png">View Dashboard</a> 
+<a href="Sales_Dashboard.png">View Dashboard</a> 
 
 📌 How to Use
 

@@ -47,7 +47,7 @@ Conditional Formatting
 
 📷 Dashboard Preview
 
-![image alt]()
+![image alt](https://github.com/anusiva05/Excel_Sales_Dashboard/blob/main/Sales_Dashboard.png?raw=true)
 
 📌 How to Use
 
